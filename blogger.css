@@ -1,0 +1,99 @@
+
+         p    {
+         letter-spacing: -0.003em;line-height: 32px;margin-top: 2.14em;font-size: 20px;margin-bottom: -0.46em;font-family: source-serif-pro, Georgia, Cambria, Times New Roman, Times, serif;font-style: normal;word-break: break-word;color: #242424;font-weight: 400;margin: 0;
+           }
+
+         .my-header {
+           font-size: 42px;font-weight: 700;margin-top: 1.01em;font-style: normal;margin-bottom: 32px;line-height: 52px;letter-spacing: -0.011em;font-family: sohne, Helvetica Neue, Helvetica, Arial, sans-serif;color: #242424;
+
+
+           }
+
+           .sub-header {
+           font-size: 25px;font-weight: 700;margin-top: 1.01em;font-style: normal;margin-bottom: 24px;line-height: 38px;letter-spacing: -0.014em;font-family: sohne, Helvetica Neue, Helvetica, Arial, sans-serif;color: #242424;
+
+           }
+
+           pre, form {
+             margin: 0;
+         }
+
+           pre {
+             display: block;
+             white-space: pre;
+             font-family: Andale Mono, Lucida Console, Monaco, fixed, monospace;
+                     color: #000000; background-color: #F2F2F2;;
+                     font-size: 12px;
+                     line-height: 14px; padding: 5px;
+                     overflow: auto; width: 100%
+         }
+
+
+         code {
+           color:#000000;word-wrap:normal;
+
+         }
+
+         body {
+          text-rendering: optimizeLegibility;
+          -webkit-font-smoothing: antialiased;
+         }
+
+         .viewitem-panel .viewitem-content {
+           max-width: inherit;
+           margin: 6rem;
+
+         }
+
+         .article {
+               max-width: 80%;
+
+         }
+
+         .article.has-ads {
+            padding-right: unset;
+
+         }
+
+
+      .article .article-header .title {
+         display:none;
+         }
+
+       	my-footer    {
+         letter-spacing: -0.003em;line-height: 32px;margin-top: 2.14em;font-size: 20px;margin-bottom: -0.46em;font-style: normal;word-break: break-word;color: #242424;font-weight: 400;margin: 0;
+           }
+
+      my-git-hub    {
+         letter-spacing: -0.003em;line-height: 30px;margin-top: 2.14em;font-size: 20px;margin-bottom: -0.46em;font-style: normal;word-break: break-word;color: #242424;font-weight: 500;margin: 0;
+
+           }
+
+
+      my-git-hub > a:visited, a:focus, a:hover {
+
+        font-weight:500;
+        color: rgba(135, 157, 0, 1)
+      }
+
+      my-you-tube    {
+         letter-spacing: -0.003em;line-height: 32px;margin-top: 2.14em;font-size: 20px;margin-bottom: -0.46em;font-style: normal;word-break: break-word;color: #242424;font-weight: 400;margin: 0;
+           }
+
+
+      my-you-tube > a:visited, a:focus, a:hover {
+
+        font-weight:500;
+        color: #FF0000
+      }
+
+      iframe{
+
+        width:100%;
+        border-radius:3px;
+
+      }
+
+      .article .article-footer {
+      	display:none;
+      }
